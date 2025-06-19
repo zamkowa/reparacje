@@ -2,23 +2,23 @@
   "name": "Licznik Reparacji",
   "short_name": "Reparacje",
   "description": "Licznik reparacji wojennych należnych Polsce",
-  "start_url": "/index.html",
+  "start_url": "/reparacje/",
   "display": "standalone",
   "background_color": "#f4f4f4",
   "theme_color": "#f4f4f4",
   "icons": [
     {
-      "src": "/apple-touch-icon.png",
+      "src": "/reparacje/apple-touch-icon.png",
       "sizes": "180x180",
       "type": "image/png"
     },
     {
-      "src": "/favicon-32x32.png",
+      "src": "/reparacje/favicon-32x32.png",
       "sizes": "32x32",
       "type": "image/png"
     },
     {
-      "src": "/favicon-16x16.png",
+      "src": "/reparacje/favicon-16x16.png",
       "sizes": "16x16",
       "type": "image/png"
     }
